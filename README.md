@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me 👋
+
+<h1 align="left"> 박종윤 </h1>
+<h3 align="left"> 안녕하세요 php 백엔드 개발자로 약 3년의 경력이 있습니다. </h3>
 
 <!--
 **jongyoon5640/jongyoon5640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

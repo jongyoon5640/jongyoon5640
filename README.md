@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm 박종윤</h1>
 <h3 align="center">백엔드 개발자입니다.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 010-5110-5640 </h3>
 <p align="left">
 </p>
 
